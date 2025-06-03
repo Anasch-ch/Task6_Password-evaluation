@@ -1,0 +1,75 @@
+## Task 6 Report: Creating and Evaluating Strong Passwords
+
+## Objective
+
+To understand what makes a password strong and test password strength using an online password strength checker. The aim is to learn best practices in password creation and recognize common attack vectors targeting weak passwords.
+
+## Tool Used
+
+PasswordMeter.com
+
+Step 1: Create Multiple Passwords with Varying Complexity
+password123 - Common weak password with only lowercase and numbers
+Pass1234 - Mixed case and numbers
+Pa$$w0rd! - Mixed case, numbers, and symbols
+S!mpl3C0mpl3x!ty - Long and complex with multiple symbol types
+M%X9$z7u!Vr@P#qL - Very strong, random high-entropy password
+
+## Step 2 & 3: Test Passwords on PasswordMeter.com and Note Scores
+
+password123 - 26% - Weak - Too common, lacks symbols and complexity
+Pass1234 - 42% - Moderate - Add more symbols or increase length
+Pa$$w0rd! - 66% - Strong - Good complexity, could be longer
+S!mpl3C0mpl3x!ty - 82% - Very Strong - Great mix of complexity and length
+M%X9$z7u!Vr@P#qL - 100% - Very Strong - Excellent:high entropy and randomness
+
+
+## : Best Practices for Creating Strong Passwords
+
+Use at least 12–16 characters.
+
+Combine uppercase, lowercase, numbers, and symbols.
+
+Avoid using common words, phrases, or repeated patterns.
+
+Do not reuse passwords across multiple accounts.
+
+Consider using a password manager to generate and store complex passwords.
+
+
+## : Common Password Attacks
+
+--Brute Force Attack
+
+Attempts every possible combination of characters.
+
+Long and complex passwords are significantly more resistant.
+
+--Dictionary Attack
+
+Uses precompiled lists of commonly used passwords and words.
+
+Easily cracks passwords that are based on common words or predictable patterns.
+
+--Credential Stuffing
+
+Uses credentials leaked from one breach to access accounts on other services.
+
+Highlights the danger of reusing passwords.
+
+
+## : Summary of Findings
+
+Password complexity directly increases resistance against brute force and dictionary attacks.
+
+Higher entropy (unpredictability) and randomness result in stronger passwords.
+
+Using passphrases (a mix of unrelated words) or generated strings is more effective than clever but guessable substitutions (like P@ssw0rd).
+
+
+## Conclusion
+
+Understanding and practicing strong password creation is essential for personal and organizational cybersecurity. This task demonstrated the impact of complexity, randomness, and length on password strength and reinforced the importance of avoiding predictable or reused passwords.
+
+##Outcome: 
+Gained a clear understanding of password security, common attack methods, and best practices to defend against them.
